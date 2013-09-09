@@ -20,3 +20,5 @@ Controls:
 - m: mute/unmute
 - p: pause
 - q: quit
+
+Requires Love2D to run.
